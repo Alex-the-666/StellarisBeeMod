@@ -1,0 +1,22 @@
+l_english:
+
+ ####################################
+ # Species Class
+ ####################################
+ 
+ BEE:0 "Bee"
+ BEE_desc:1 "Small insects that are eusocial and build tremendous hives."
+ BEE_plural:0 "Bees"
+ BEE_insult_01:0 "bug"
+ BEE_insult_plural_01:0 "bugs"
+ BEE_compliment_01:0 "polinator"
+ BEE_compliment_plural_01:0 "polinators"
+ BEE_spawn:0 "larva"
+ BEE_spawn_plural:0 "larvae"
+ BEE_sound_01:0 "buzzing"
+ BEE_sound_02:0 "stinging"
+ BEE_sound_03:0 "flaping"
+ BEE_sound_04:0 "buzzing"
+ BEE_sound_05:0 "buzzing"
+ BEE_organ:0 "wings"
+ BEE_mouth:0 "proboscious"

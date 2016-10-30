@@ -1,0 +1,7 @@
+BEE = {
+	portraits = {
+		"bee"
+	}
+	graphical_culture = bee_01
+	move_pop_sound_effect = "arthopoid_pops_move"
+}

@@ -1,0 +1,63 @@
+Bees= {
+	name = "The Interstellar Beehive"
+	spawn_enabled = yes # yes / no / always
+	
+	name_list = "PLANT2"
+	ship_prefix = "Hive"
+	
+	species_name = "Bee"
+	species_plural = "Bees"	#we should localize this!
+	species_adjective = "Bee"
+	species_class = "BEE"
+	trait="trait_sedentary"
+	trait="trait_rapid_breeders"
+	trait="trait_industrious"
+	trait="trait_nonadaptive"
+	trait="trait_communal"
+	trait="trait_charismatic"	
+	portrait = "bee"
+	adjective = "Bee"
+	
+	government = "despotic_hegemony"
+	ethic="ethic_fanatic_collectivist"
+	ethic="ethic_materialist"
+	weapon = "tech_missiles_1"
+	ftl = warp
+	
+	planet_name="Central Hive"
+	planet_class="pc_continental"
+	initializer = "bee_system_initializer"
+	system_name = "Sol"
+	
+	graphical_culture = "arthropoid_01"
+	city_graphical_culture = "bee_01"
+	
+	empire_flag={
+		icon={
+			category="zoological"
+			file="flag_zoological_1.dds"
+		}
+		background={
+			category="backgrounds"
+			file="stripes.dds"
+		}
+		colors={
+			"orange"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=female
+		name="Honeydew Nectar"
+		portrait="bee"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="King"
+		heir_title="Prince"
+		ruler_title_female="Queen"
+		heir_title_female="Princess"
+	}
+}
