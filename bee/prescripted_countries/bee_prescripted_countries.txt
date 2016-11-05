@@ -18,7 +18,7 @@ Bees= {
 	portrait = "bee"
 	adjective = "Bee"
 	
-	government = "despotic_hegemony"
+	government = "eusocial_collective"
 	ethic="ethic_fanatic_collectivist"
 	ethic="ethic_materialist"
 	weapon = "tech_missiles_1"
